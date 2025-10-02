@@ -1,7 +1,7 @@
 # jpa01-wooblz
 
 
-Deployed at: https://http://jpa01-wooblz.dokku-11.cs.ucsb.edu/
+Deployed at: https://http://jpa01-wooblz.dokku-11.cs.ucsb.edu
 
 
 # About this repo
